@@ -1,5 +1,6 @@
 # Twitter-CoronaVirus-Sentiment
 # NLP text classification sentiment using LTSM model
+# For Dicoding Submission Project
 
 * Dataset is provided by Kaggle uploaded by Aman Miglani
 * Link to File : https://www.kaggle.com/datatattle/covid-19-nlp-text-classification
